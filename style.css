@@ -1,0 +1,27 @@
+body {
+	/* background-image: linear-gradient(to right, rgba(134, 143, 150, 1), rgba(89, 97, 100, 1)); */
+	background-image: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+}
+
+.card-panel {
+	/* background-color: #cad2fc; */
+	color: white;
+}
+.row {
+	margin-top: 25vh;
+}
+h1 {
+	margin-top: 0;
+}
+h5 {
+	color: white;
+}
+#message-form {
+	background-image: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+}
+#message-show {
+	background-image: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+}
+#link-form {
+	background-image: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+}
